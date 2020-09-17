@@ -1,0 +1,62 @@
+body,html{
+  height: 100%;
+  background-color:#ff4c68;
+
+}
+
+
+.bg{
+  background-image: url('https://mdbootstrap.com/img/Photos/Slides/img%20(15).jpg');
+
+  height:100%;
+  background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cnt{
+
+  color:black;
+  text-align: center;
+}
+ h1{
+  padding-top: 10%;
+padding-bottom: 0;
+}
+h3{
+  padding-bottom: 3%;
+}
+.fot{
+  text-align:center;
+
+margin-top: 250px;
+  color: white;
+}
+
+
+/* second page */
+
+
+
+
+.content{
+margin:20% 15%;
+text-align: center;
+  color: #BCC6CC;
+  /* font-family: 'Ranchers', cursive; */
+  font-family: 'Lobster', cursive;
+
+line-height:3;
+}
+.content h4,h6{
+  color:black;
+
+}
+.content h3{
+  font-size: 2rem;
+}
+.foot{
+  text-align:center;
+padding-bottom: 0;
+margin-top: 150px;
+  color: white;
+}
